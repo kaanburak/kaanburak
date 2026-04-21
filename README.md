@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kaan Burak Kara 👋
 
-<!--
-**kaanburak/kaanburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Computer Engineering student at Mersin University, focused on backend development and AI systems. Currently building toward distributed systems and AI-powered backend infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Computer_Networks-005C97?style=flat&logo=cisco&logoColor=white)
+
+## 🚀 Currently
+
+- Learning **FastAPI** and backend development fundamentals
+- Building projects with **AI integrations**
+- Exploring **distributed systems** architecture
+- Strong foundation in **computer networks** and protocols
+
+## 🎯 Goals
+
+- Intern as a backend or AI systems developer
+- Build production-ready APIs with AI capabilities
+- Long-term: distributed systems & AI infrastructure engineering
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-kara-2b6757275/)
