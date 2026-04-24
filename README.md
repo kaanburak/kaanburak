@@ -1,4 +1,4 @@
-# Hi, I'm Kaan Burak Kara 👋
+# Hi, I'm Kaan 👋
 
 I'm a 3rd-year Computer Engineering student at Mersin University, focused on backend development and AI systems. Currently building toward distributed systems and AI-powered backend infrastructure.
 
