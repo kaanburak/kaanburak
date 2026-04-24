@@ -5,17 +5,19 @@ I'm a 3rd-year Computer Engineering student at Mersin University, focused on bac
 ## 🔧 Technologies & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Computer_Networks-005C97?style=flat&logo=cisco&logoColor=white)
 
+
 ## 🚀 Currently
 
 - Learning **FastAPI** and backend development fundamentals
-- Building projects with **AI integrations**
+- Building projects with **Flask, JavaScript, and AI integrations**
 - Exploring **distributed systems** architecture
 - Strong foundation in **computer networks** and protocols
 
